@@ -1,5 +1,30 @@
 /********** Fixes **********/
+.col-1 {
+  float: left;
+  width: 32%;
+}
 
+.col-2 {
+  float: left;
+  width: 66%;
+}
+
+.col-3 {
+
+}
+
+
+.first {
+  margin-left: 0%;
+}
+
+.top {
+  margin-top: 2%;
+}
+
+.bottom {
+  margin-bottom: 2%;
+}
 * {
   margin:0;
   padding:0;
